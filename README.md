@@ -1,2 +1,2 @@
 # knn_implemented
-Full kNN implementation using Euclidean distance, also calculate accuracy according to K value.
+This code demonstrates the implementation of a K-Nearest Neighbor (KNN) algorithm for classification. It uses the Iris dataset from the UCI Machine Learning Repository, and trains the KNN model to predict the class of each flower based on its sepal length, sepal width, petal length, and petal width. The code splits the data into training and testing sets, preprocesses the data using StandardScaler, and then evaluates the model's accuracy across different values of K. Finally, it visualizes the accuracy performance of the KNN model using a line plot.
